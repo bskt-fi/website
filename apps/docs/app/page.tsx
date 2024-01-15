@@ -29,25 +29,24 @@ function Gradient({
 
 const LINKS = [
   {
-    title: "Docs",
-    href: "https://turbo.build/repo/docs",
-    description: "Find in-depth information about Turborepo features and API.",
+    title: "Built by the Best",
+    href: "https://www.bskt.fi",
+    description: "Our team and investors span the entire crypto industry, including many of the most influential leaders of the Solana ecosystem.",
   },
   {
-    title: "Learn",
-    href: "https://turbo.build/repo/docs/handbook",
-    description: "Learn more about monorepos with our handbook.",
+    title: "On-Chain Transparency",
+    href: "https://www.bskt.fi",
+    description: "$BSKT is backed by a proportional basket of assets locked in our SVM smart contract. The token is designed to be mintable & redeemable, fully backed, and transparent.",
   },
   {
-    title: "Templates",
-    href: "https://turbo.build/repo/docs/getting-started/from-example",
-    description: "Choose from over 15 examples and deploy with a single click.",
+    title: "Security is Our Top Priority",
+    href: "https://www.bskt.fi",
+    description: "All of our products are rigorously audited and assets are trustlessly secured by Solana’s robust security standards.",
   },
   {
-    title: "Deploy",
-    href: "https://vercel.com/new",
-    description:
-      " Instantly deploy your Turborepo to a shareable URL with Vercel.",
+    title: "Built to Last",
+    href: "https://www.bskt.fi",
+    description: "We believe in the exponential power of long-term compounding. Our products are designed to be used for generations to come.",
   },
 ];
 
